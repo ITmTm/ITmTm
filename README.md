@@ -27,7 +27,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 
-### 💻 My favorite tools and technologies
+### 💻 My favorite tools and technologies :
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
