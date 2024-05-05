@@ -7,13 +7,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 ---
 
-## :iphone: &nbsp;Connect with me :
+### :iphone: &nbsp;Connect with me :
 
 <p align="left">
 <a href="https://t.me/m888tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="m888tm" height="40" width="40" /></a> &nbsp;
@@ -27,7 +27,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 
-## 💻 My favorite tools and technologies
+### 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -120,7 +120,11 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-## 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🔥 &nbsp; My Stats :
+<div style="display: flex; justify-content: space-around; align: center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ITmTm&theme=dark&background=000000" alt="mystreak"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ITmTm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ITmTm.ITmTm)
