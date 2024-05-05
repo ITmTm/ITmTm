@@ -1,4 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=ITmTm&style=plastic&color=blue&abbreviated=true" alt=""/></div>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **ITmTm/ITmTm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
