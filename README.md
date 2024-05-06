@@ -124,8 +124,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <div display="flex">
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ITmTm&theme=dark&background=000000" alt="mystreak"/> </p>
 <br>
-<br>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ITmTm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> </p>
+  <p margin-top="10px"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ITmTm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> </p>
 </div>
 
 
