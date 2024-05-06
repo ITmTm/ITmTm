@@ -121,10 +121,10 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### 🔥 &nbsp; My Stats :
-<div>
+<div display="flex">
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ITmTm&theme=dark&background=000000" alt="mystreak"/> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ITmTm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> </p>
+<br>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ITmTm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> </p>
 </div>
 
 
