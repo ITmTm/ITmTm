@@ -2,7 +2,9 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=ITmTm&style=plastic&color=blue&abbreviated=true" alt="profileviews"/></div>
 
+  
 <h1 align="center">
+
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -10,6 +12,10 @@
 ### :man_technologist: &nbsp;About Me :
 
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- 🔭 I’m currently working on React in conjunction with Redux/RTK app ;
+- 🌱 I’m currently learning: **Redux, RTK, RTK Query** ;
+- ⚡ Learning: **TypeScript** ;
+- 📫 How to reach me: **Stafr951@gmail.com**.
 
 ---
 
