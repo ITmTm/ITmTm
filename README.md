@@ -15,7 +15,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 🔭 I’m currently working on React in conjunction with Redux/RTK app ;
 - 🌱 I’m currently learning: **Redux, RTK, RTK Query** ;
 - ⚡ Learning: **TypeScript** ;
-- 📫 How to reach me: **Stafr951@gmail.com**.
+- 📫 How to reach me: **Stafr951@gmail.com**
 
 ---
 
