@@ -85,6 +85,10 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
       <br>Webpack
     </td>
     <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="icon" width="65" height="65" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
