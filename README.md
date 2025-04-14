@@ -9,8 +9,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: &nbsp;About Me :
-
 ### 💻 My favorite tools and technologies :
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
