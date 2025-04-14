@@ -11,26 +11,6 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- 🔭 I’m currently working on React in conjunction with Redux/RTK app ;
-- 🌱 I’m currently learning: **Redux, RTK, RTK Query** ;
-- ⚡ Learning: **TypeScript** ;
-- 📫 How to reach me: **Stafr951@gmail.com**
-
----
-
-### :iphone: &nbsp;Connect with me :
-
-<p align="left">
-<a href="https://t.me/m888tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="m888tm" height="40" width="40" /></a> &nbsp;
-<a href="https://codepen.io/itmtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@itmtm" height="40" width="40" /></a> &nbsp;
-<a href="https://codesandbox.com/itmtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="itmtm" height="40" width="40" /></a> &nbsp;
-<a href="https://discord.gg/m888tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m888tm" height="40" width="40" /></a> &nbsp;
-</p>
-
----
-
-
 ### 💻 My favorite tools and technologies :
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
