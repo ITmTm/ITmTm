@@ -104,18 +104,6 @@
 </div>
 
 ---
-<!--START_SECTION:waka-->
-
-```txt
-From: 14 June 2025 - To: 14 June 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
----
 
 ### 🔥 &nbsp; My Stats :
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ITmTm&theme=dark&background=000000" alt="mystreak"/> </p>
