@@ -105,14 +105,6 @@
 
 ---
 
-
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=ITmTm&layout=compact&range=all_time&bg_color=0d1117&langs_count=8&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&custom_title=All-time%20development%20breakdown&hide_progress=true&theme=dark&v=2)
-
-
-
----
-
 ### 🔥 &nbsp; My Stats :
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ITmTm&theme=dark&background=000000" alt="mystreak"/> </p>
 
